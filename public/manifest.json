@@ -1,0 +1,8 @@
+{
+  "short_name": "Counter app",
+  "name": "Sample reat app for cox",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
